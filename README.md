@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @OsazuwaBright
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data science 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on data science projects 
+- 📫 How to reach me iseosazuwa@gmail.com
+- 
 
 <!---
 OsazuwaBright/OsazuwaBright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
